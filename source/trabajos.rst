@@ -13,7 +13,7 @@ Trabajos Realizados
 
 Equipos informaticos
 --------------------
-Una de las primeras tareas a realizar a la hora de comenzar la beca fue la limpieza (tanto hardware como software)
+Una de las primeras tareas a realizar a la hora de comenzar la beca fue la limpieza (tanto de hardware, como de software)
 de los equipos de trabajo en delegación, puesto que llevaban mucho tiempo sin mantenimiento, con software desactualizado
 y en algunos equipos había evidencias de posibles virus o malware presente.
 Se formateo todos los equipos y se crearon dos grupos de equipos de trabajo: Mostrador (equipos orientados a atención
@@ -43,7 +43,7 @@ Software específico en equipos de trabajo:
 
 Página web
 ----------
-A finales del curso, se comenzaron a realizar los trabajo de renovacion de la plataforma web de Delegación. La web estaba alojada
+A finales del curso lectivo 2015-2016, se comenzaron a realizar los trabajo de renovacion de la plataforma web de Delegación. La web estaba alojada
 en los servidores de la escuela en el dominio de: http://daetsam.aq.upm.es. El problema de esta arquitectura y servicio
 es que no se tiene acceso total al servidor, solamente acceso FTP controlado desde una determinada ip. Por lo tanto, cuando
 la web se cae o se corta el servicio de la misma, hay que comunicar a servicios informaticos del centro de cálculo para que
